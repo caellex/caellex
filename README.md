@@ -17,11 +17,11 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning: <br><br>&nbsp;&nbsp;&nbsp;&nbsp;🌐 *HTML* <br>&nbsp;&nbsp;&nbsp;&nbsp;🎨 *CSS* <br>&nbsp;&nbsp;&nbsp;&nbsp;💾 *JavaScript*</p>
+<p align="left">🌱 I’m currently learning: <br><br>&nbsp;&nbsp;&nbsp;&nbsp;🌐 HTML<br>&nbsp;&nbsp;&nbsp;&nbsp;🎨 CSS <br>&nbsp;&nbsp;&nbsp;&nbsp;💾 JavaScript</p>
 
 ###
 
-<p align="left">🌱 I'm planning on learning:<br><br>&nbsp;&nbsp;&nbsp;&nbsp;🗃️ *SQL*<br>&nbsp;&nbsp;&nbsp;&nbsp;🐍 *Python*<br>&nbsp;&nbsp;&nbsp;&nbsp;🔧 *C#*<br>&nbsp;&nbsp;&nbsp;&nbsp;🦀 *Rust*</p>
+<p align="left">🌱 I'm planning on learning:<br><br>&nbsp;&nbsp;&nbsp;&nbsp;🗃️ SQL<br>&nbsp;&nbsp;&nbsp;&nbsp;🐍 Python<br>&nbsp;&nbsp;&nbsp;&nbsp;🔧 C#<br>&nbsp;&nbsp;&nbsp;&nbsp;🦀 Rust</p>
 
 ###
 
