@@ -1,11 +1,11 @@
 ### CaelleX - About Me 
 
 
- 🌱 **I’m currently learning**:
-    🌐 *HTML*
-    🎨 *CSS*
-    💾 *JavaScript*
-
+ 🌱 **I’m currently learning**::-
+    🌐 *HTML*:-
+    🎨 *CSS*:-
+    💾 *JavaScript*:-
+:-
 🌱 **I'm planning on learning**:
     🗃️ *SQL*
     🐍 *Python*
