@@ -1,9 +1,8 @@
 ### CaelleX - About Me 
-
-<pre>🌱 I’m currently learning:
-‎ ‎ ‎ ‎ 🌐 *HTML*
-    🎨 *CSS*
-    💾 *JavaScript* </pre>
+🌱 I’m currently learning:
+&nbsp;&nbsp;&nbsp;&nbsp;🌐 *HTML*
+&nbsp;&nbsp;&nbsp;&nbsp;🎨 *CSS*
+&nbsp;&nbsp;&nbsp;&nbsp;💾 *JavaScript* 
 
 🌱 **I'm planning on learning**:
     🗃️ *SQL*
