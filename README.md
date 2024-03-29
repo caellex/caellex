@@ -4,16 +4,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🌐 *HTML* <br>
 &nbsp;&nbsp;&nbsp;&nbsp;🎨 *CSS* <br>
 &nbsp;&nbsp;&nbsp;&nbsp;💾 *JavaScript*<br> 
-
-
+<br>
+<br>
 🌱 **I'm planning on learning**:<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;🗃️ *SQL*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;🐍 *Python*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;🔧 *C#*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;🦀 *Rust*<br>
-    
-
+<br>
+<br>
 
 - 📫 caellex@proton.me
 
