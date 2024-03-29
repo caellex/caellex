@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning: <br><br>&nbsp;&nbsp;&nbsp;&nbsp;🌐 HTML<br>&nbsp;&nbsp;&nbsp;&nbsp;🎨 CSS <br>&nbsp;&nbsp;&nbsp;&nbsp;💾 JavaScript</p>
+<p align="left">🌱 I’m currently learning: <br><br>&nbsp;&nbsp;&nbsp;&nbsp;🌐 HTML<br>&nbsp;&nbsp;&nbsp;&nbsp;🎨 CSS <br>&nbsp;&nbsp;&nbsp;&nbsp;💾 JavaScript<br><br></p>
 
 ###
 
