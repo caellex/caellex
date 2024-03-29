@@ -17,10 +17,24 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning: <br><br><br>&nbsp;&nbsp;&nbsp;&nbsp;🌐 *HTML* <br><br>&nbsp;&nbsp;&nbsp;&nbsp;🎨 *CSS* <br><br>&nbsp;&nbsp;&nbsp;&nbsp;💾 *JavaScript*<br> <br><br><br><br></p>
+<p align="left">🌱 I’m currently learning: <br><br><br>&nbsp;&nbsp;&nbsp;&nbsp;🌐 *HTML* <br><br>&nbsp;&nbsp;&nbsp;&nbsp;🎨 *CSS* <br><br>&nbsp;&nbsp;&nbsp;&nbsp;💾 *JavaScript*<br> <br><br></p>
 
 ###
 
-<p align="left">🌱 **I'm planning on learning**:<br><br><br>&nbsp;&nbsp;&nbsp;&nbsp;🗃️ *SQL*<br><br>&nbsp;&nbsp;&nbsp;&nbsp;🐍 *Python*<br><br>&nbsp;&nbsp;&nbsp;&nbsp;🔧 *C#*<br><br>&nbsp;&nbsp;&nbsp;&nbsp;🦀 *Rust*<br><br><br><br><br></p>
+<p align="left">🌱 **I'm planning on learning**:<br><br><br>&nbsp;&nbsp;&nbsp;&nbsp;🗃️ *SQL*<br><br>&nbsp;&nbsp;&nbsp;&nbsp;🐍 *Python*<br><br>&nbsp;&nbsp;&nbsp;&nbsp;🔧 *C#*<br><br>&nbsp;&nbsp;&nbsp;&nbsp;🦀 *Rust*<br></p>
+
+###
+
+<h4 align="center">- 📅  Started my coding adventure 2024-01-20  📅 -</h4>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
 
 ###
