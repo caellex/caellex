@@ -25,7 +25,7 @@
 
 ###
 
-<h4 align="center">- 📅  Started my coding adventure 2024-01-20  📅 -</h4>
+<h4 align="center">- 📅  Started my coding adventure 2024-01-25  📅 -</h4>
 
 ###
 
