@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning: <br>&nbsp;&nbsp;&nbsp;&nbsp;🎯 C#<br>&nbsp;&nbsp;&nbsp;&nbsp;⚙️ JavaScript<br></p>
+<p align="left">🌱 I’m currently learning: <br>&nbsp;&nbsp;&nbsp;&nbsp;🎯 C#<br></p>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">🌱 I'm planning on learning:<br>&nbsp;&nbsp;&nbsp;&nbsp;🗃️ SQL<br>&nbsp;&nbsp;&nbsp;&nbsp;🐍 Python<br>&nbsp;&nbsp;&nbsp;&nbsp;🔧 C#<br>&nbsp;&nbsp;&nbsp;&nbsp;🦀 Rust<br>&nbsp;&nbsp;&nbsp;&nbsp;⚛️ React<br>&nbsp;&nbsp;&nbsp;&nbsp;📱 React Native<br>&nbsp;&nbsp;&nbsp;&nbsp;🚀 Next.js</p>
+<p align="left">🌱 I'm planning on learning:<br>&nbsp;&nbsp;&nbsp;&nbsp;🗃️ SQL<br>&nbsp;&nbsp;&nbsp;&nbsp;🌐 .NET<br>&nbsp;&nbsp;&nbsp;&nbsp;🔥 Blazor<br>&nbsp;&nbsp;&nbsp;&nbsp;🐍 Python<br>&nbsp;&nbsp;&nbsp;&nbsp;🔧 C#<br>&nbsp;&nbsp;&nbsp;&nbsp;🦀 Rust<br>&nbsp;&nbsp;&nbsp;&nbsp;⚛️ React<br>&nbsp;&nbsp;&nbsp;&nbsp;📱 React Native<br>&nbsp;&nbsp;&nbsp;&nbsp;🚀 Next.js</p>
 
 ###
 
