@@ -1,4 +1,4 @@
-w<h1 align="center">Welcome!</h1>
+<h1 align="center">Welcome!</h1>
 
 ###
 
@@ -17,16 +17,16 @@ w<h1 align="center">Welcome!</h1>
 
 ###
 
-<p align="left">🌱 I’m currently learning: <br></p>
+<p align="left">🌱 I’m currently learning: <br>&nbsp;&nbsp;&nbsp;&nbsp;💻🌐 Fullstack:<br>&nbsp;&nbsp;&nbsp;&nbsp;  🟢 Node.js<br>&nbsp;&nbsp;&nbsp;&nbsp;  ⚛️ React<br>&nbsp;&nbsp;&nbsp;&nbsp;  🗃️ SQL</p>
 
 ###
 
-<p align="left">🌱 I have programmed in: <br>&nbsp;&nbsp;&nbsp;&nbsp;🌐 HTML<br>&nbsp;&nbsp;&nbsp;&nbsp;🎨 CSS<br>&nbsp;&nbsp;&nbsp;&nbsp;⚙️ JavaScript<br>&nbsp;&nbsp;&nbsp;&nbsp;🎯 C#<br></p>
+<p align="left">🌱 I currently know: <br>&nbsp;&nbsp;&nbsp;&nbsp;🌐 HTML<br>&nbsp;&nbsp;&nbsp;&nbsp;🎨 CSS<br>&nbsp;&nbsp;&nbsp;&nbsp;⚙️ JavaScript<br></p>
 
 
 ###
 
-<p align="left">🌱 I'm planning on learning:<br>&nbsp;&nbsp;&nbsp;&nbsp;🗃️ SQL<br>&nbsp;&nbsp;&nbsp;&nbsp;🌐 .NET<br>&nbsp;&nbsp;&nbsp;&nbsp;🔥 Blazor<br>&nbsp;&nbsp;&nbsp;&nbsp;🐍 Python<br>&nbsp;&nbsp;&nbsp;&nbsp;🦀 Rust<br>&nbsp;&nbsp;&nbsp;&nbsp;⚛️ React<br>&nbsp;&nbsp;&nbsp;&nbsp;📱 React Native<br>&nbsp;&nbsp;&nbsp;&nbsp;🚀 Next.js</p>
+<p align="left">🌱 I'm planning on learning:<br>&nbsp;&nbsp;&nbsp;&nbsp;🌐 .NET<br>&nbsp;&nbsp;&nbsp;&nbsp;🔥 Blazor<br>&nbsp;&nbsp;&nbsp;&nbsp;🐍 Python<br>&nbsp;&nbsp;&nbsp;&nbsp;🦀 Rust<br>&nbsp;&nbsp;&nbsp;&nbsp;⚛️ React<br>&nbsp;&nbsp;&nbsp;&nbsp;📱 React Native<br>&nbsp;&nbsp;&nbsp;&nbsp;🚀 Next.js</p>
 
 ###
 
