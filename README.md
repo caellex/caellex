@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning: <br>&nbsp;&nbsp;&nbsp;&nbsp;💻🌐 Fullstack:<br>&nbsp;&nbsp;&nbsp;&nbsp;      🟢 Node.js<br>&nbsp;&nbsp;&nbsp;&nbsp;      ⚛️ React<br>&nbsp;&nbsp;&nbsp;&nbsp;      🗃️ SQL</p>
+<p align="left">🌱 I’m currently learning: <br>&nbsp;&nbsp;&nbsp;&nbsp;💻🌐 Fullstack:<br>&nbsp;&nbsp;&nbsp;&nbsp;      🟢 NodeJS<br>&nbsp;&nbsp;&nbsp;&nbsp;      ⚛️ React<br>&nbsp;&nbsp;&nbsp;&nbsp;      🗃️ SQL</p>
 
 ###
 
