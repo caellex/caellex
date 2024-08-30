@@ -1,4 +1,4 @@
-<h1 align="center">Welcome!</h1>
+w<h1 align="center">Welcome!</h1>
 
 ###
 
@@ -17,11 +17,11 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning: <br>&nbsp;&nbsp;&nbsp;&nbsp;🎯 C#<br></p>
+<p align="left">🌱 I’m currently learning: <br></p>
 
 ###
 
-<p align="left">🌱 I currently know: <br>&nbsp;&nbsp;&nbsp;&nbsp;🌐 HTML<br>&nbsp;&nbsp;&nbsp;&nbsp;🎨 CSS<br>&nbsp;&nbsp;&nbsp;&nbsp;⚙️ JavaScript<br></p>
+<p align="left">🌱 I have programmed in: <br>&nbsp;&nbsp;&nbsp;&nbsp;🌐 HTML<br>&nbsp;&nbsp;&nbsp;&nbsp;🎨 CSS<br>&nbsp;&nbsp;&nbsp;&nbsp;⚙️ JavaScript<br>&nbsp;&nbsp;&nbsp;&nbsp;🎯 C#<br></p>
 
 
 ###
